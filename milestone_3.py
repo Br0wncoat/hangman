@@ -18,6 +18,5 @@ def ask_for_input():
 
 word_list = ['Apple', 'Grapes','Pineapple','Mango', 'Orange']
 word = random.choice(word_list).lower()
-print(word)
 ask_for_input()
 
